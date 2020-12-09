@@ -35,6 +35,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build Netflix Login Page | Netflix login page clone | Beginners Guide |](https://www.youtube.com/watch?v=4quNiCTlj2w)
+- [REST API using Node.js & Express.js  Part 5 Final | Beginners guide | Code Review Logic separation |](https://www.youtube.com/watch?v=HSqKapk7lQc)
+- [REST API using Node.js & Express.js  Part 4 | Beginners guide | Delete & Update users information |](https://www.youtube.com/watch?v=coE8xng2tHE)
+- [REST API using Node.js & Express.js  Part 3 | Beginners guide | Get particular user's information |](https://www.youtube.com/watch?v=ZeOCIYc5Q00)
+- [REST API using Node.js & Express.js  Part 2 | Beginners guide | Add user's information |](https://www.youtube.com/watch?v=9uc1QTQXAfc)
 <!-- YOUTUBE:END -->
 
 ---
