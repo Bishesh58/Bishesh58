@@ -1,6 +1,6 @@
 ### Hi there, I'm Bishesh 👋
 
-## I'm a Full Stack Developer, who love to code! 
+## I'm a Full Stack Developer, who loves to code! 
 
 - 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
 - 👯 I’m looking to collaborate with other passionate developers.
