@@ -2,10 +2,10 @@
 
 ## I'm a Full Stack Developer, who love to code! 
 
-- 📚 I’m currently learning NextJs, VueJs, Nodejs and Firebase.
+- 📚 I’m currently working on Vue, React, Nuxt and Next.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2022 Goals: Deep dive into web3, Contribute to Open Source projects.
-- ⚡ Fun fact: I love to make delicious food on my free time & travel new places.
+- 🥅 2023 Goals: Constantly improve my soft skills and technical skills.
+- ⚡ Fun fact: I've built so many websites that my fingers automatically type "<div>" whenever I hold a pen.
 
 ### Languages and Tools:
 
@@ -29,6 +29,9 @@
 
 <br />
 <br />
+ ## GitHub stats
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishesh58)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
