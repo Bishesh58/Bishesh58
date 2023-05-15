@@ -1,5 +1,6 @@
 ### Hi there, I'm Bishesh 👋
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ## I'm a Full Stack Developer, who love to code! 
 
 - 📚 I’m currently working on Vue, React, Nuxt and Next.
