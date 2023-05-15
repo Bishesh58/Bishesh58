@@ -1,9 +1,10 @@
 ### Hi there, I'm Bishesh 👋
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+
 ## I'm a Full Stack Developer, who love to code! 
 
-- 📚 I’m currently working on Vue, React, Nuxt and Next.
+- 📚 I’m currently working with Vue, React, Nuxt and Next.
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2023 Goals: Constantly improve my soft skills and technical skills.
 - ⚡ Fun fact: I've built so many websites that my fingers automatically type `<div>` whenever I hold a pen.
@@ -27,12 +28,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="unity" width="26px" src="https://e7.pngegg.com/pngimages/242/418/png-clipart-unity-video-game-logo-augmented-reality-game-engine-others-miscellaneous-angle.png" />
 
+<br />
+<br />
 
-<br />
-<br />
- ## GitHub stats
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishesh58)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+ ### GitHub stats:
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishesh58)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
