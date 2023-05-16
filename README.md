@@ -35,8 +35,7 @@
 
  ### GitHub stats:
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishesh58)](https://github.com/anuraghazra/github-readme-stats)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bishesh58?cardType=octocat&theme=vue&preferLogin=false)](https://git.io/awesome-stats-card)
 ---
 
 ### 📺 Latest YouTube Videos
