@@ -27,9 +27,6 @@
  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bishesh58?cardType=octocat&theme=vue&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishesh58&label=Profile%20views&color=0e75b6&style=flat" alt="bishesh58" /> </p>
-
-
 ---
 
 ### 📺 Latest YouTube Videos
