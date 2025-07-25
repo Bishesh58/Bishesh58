@@ -6,8 +6,8 @@
 
 - 📚 I’m currently working with Vue, React, Nuxt and Next.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2024 Goals: Constantly improving my soft skills and technical skills.
-- ⚡ Fun fact: My fingers automatically type `<div>` whenever I hold a pen.
+- 🥅 2025 Goals: Constantly improving my soft skills and technical skills.
+- ⚡ Fun fact: I fear no bug, but light mode blinds me every time.
 
 
 <h3 align="left">Connect with me:</h3>
