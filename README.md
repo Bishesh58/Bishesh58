@@ -6,7 +6,7 @@
 
 - 📚 I’m currently working with Vue, React, Nuxt and Next.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2025 Goals: Constantly improving my soft skills and technical skills.
+- 🥅 2026 Goals: Constantly improving my soft skills and technical skills.
 - ⚡ Fun fact: I fear no bug, but light mode blinds me every time.
 
 
